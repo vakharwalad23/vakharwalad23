@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vakharwalad23
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me davakharwala20@gmail.com
 
 <!---
