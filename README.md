@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vakharwalad23
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning React js
+- 🌱 Currently learning full-stack web dev and using MERN stack
 - 📫 How to reach me davakharwala20@gmail.com
 
 <!---
