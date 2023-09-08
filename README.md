@@ -59,15 +59,6 @@
 
 ###
 
-# <h3 align="left">📊 GitHub Stats:</h3> 
-<img src="https://github-readme-stats.vercel.app/api?username=vakharwalad23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vakharwalad23&theme=tokyonight&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakharwalad23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
-## <h3 align="left">🏆 GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=vakharwalad23&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-
----
 <img src="https://visitcount.itsvg.in/api?id=vakharwalad23&icon=2&color=0"/>
 
 ###
