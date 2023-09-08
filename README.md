@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....India<br><br>-🔭 Always working on something !<br>🌱 I’m currently working with Nestjs<br>👨‍🎓 Pursuing Bachelor's degree in Information Technology(IT).<br>💬 Ask me about Python, JavaScript, C/C++, HTML, CSS or Anything you can think of...<br>📫 How to reach me: Just mail me! davakharwala20@gmail.com 😊</p>
+<p align="left">I'm Dhruv Vakharwala ... from ....India<br><br>-🔭 Always working on something !<br>🌱 I’m currently working with Nestjs<br>👨‍🎓 Pursuing Bachelor's degree in Information Technology(IT).<br>💬 Ask me about Python, JavaScript, C/C++, HTML, CSS or Anything you can think of...<br>📫 How to reach me: Just mail me! davakharwala20@gmail.com 😊</p>
 
 ###
 
@@ -59,15 +59,15 @@
 
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vakharwalad23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vakharwalad23&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vakharwalad23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# <h3 align="left">📊 GitHub Stats:</h3> 
+<img src="https://github-readme-stats.vercel.app/api?username=vakharwalad23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vakharwalad23&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakharwalad23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vakharwalad23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## <h3 align="left">🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=vakharwalad23&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vakharwalad23&icon=2&color=0)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=vakharwalad23&icon=2&color=0"/>
 
 ###
