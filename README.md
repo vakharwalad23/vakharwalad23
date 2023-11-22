@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<img src="https://visitcount.itsvg.in/api?id=vakharwalad23&icon=2&color=0"/>
-
-###
