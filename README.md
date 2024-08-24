@@ -17,7 +17,6 @@ I'm Dhruv Vakharwala, a passionate developer by day, interstellar code explorer 
 <details>
   <summary>Github Stats</summary>
   <br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakharwalad23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhruv" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vakharwalad23&theme=tokyonight" alt="dhruv" /></p>
 </details>
 <img src="https://profile-counter.glitch.me/vakharwalad23/count.svg" alt="dhruv :: Visitor's Count" />
