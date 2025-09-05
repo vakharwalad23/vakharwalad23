@@ -14,6 +14,4 @@ I'm Dhruv Vakharwala, a passionate developer by day, interstellar code explorer 
     <a href="mailto:hi@dhruvvakharwala.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </div>
 <br>
-<img src="https://profile-counter.glitch.me/vakharwalad23/count.svg" alt="dhruv :: Visitor's Count" />
-
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project!
