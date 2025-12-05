@@ -3,7 +3,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-I'm Dhruv Vakharwala, a passionate developer by day, interstellar code explorer by night. Building the future, one line of code at a time.Playing with new technologies.
+I'm Dhruv Vakharwala, a passionate developer by day, interstellar code explorer by night. Building the future, one line of code at a time. Playing with new technologies.
 
 ## 🌟 Connect with Me
 
